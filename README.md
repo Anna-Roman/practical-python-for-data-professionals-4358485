@@ -9,8 +9,7 @@ In this project we cleaned the data by checking for duplicates, removing unneces
 ### Results of the analysis:
 We found that there are No Churned Customers above $11K of Spend.   
 ![No Churned Customers above $11K](practical-python-for-data-professionals-4358485/images
-/no_churned_customers.png
-)
+/no_churned_customers.png)
 
 # Practical Python for Data Professionals
 This is the repository for the LinkedIn Learning course Practical Python for Data Professionals. The full course is available from [LinkedIn Learning][lil-course-url].
