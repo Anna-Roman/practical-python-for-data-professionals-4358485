@@ -8,8 +8,7 @@
 In this project we cleaned the data by checking for duplicates, removing unnecessary columns from our dataset and dealing with missing values. Then we explored our data and looked at some statistics like mean, median, min and max. Later we took a deeper look at some of our findings, like: customer churn and transaction amount. 
 ### Results of the analysis:
 We found that there are No Churned Customers above $11K of Spend.   
-![No Churned Customers above $11K](practical-python-for-data-professionals-4358485/images
-/no_churned_customers.png)
+![No Churned Customers above $11K](https://github.com/Anna-Roman/practical-python-for-data-professionals-4358485/blob/main/no_churned_customers.png)
 
 # Practical Python for Data Professionals
 This is the repository for the LinkedIn Learning course Practical Python for Data Professionals. The full course is available from [LinkedIn Learning][lil-course-url].
