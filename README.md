@@ -1,5 +1,5 @@
 # Practical Python for Data Professionals
-
+Python code is [here](https://github.com/Anna-Roman/practical-python-for-data-professionals-4358485/blob/main/data/cleaning_data.ipynb)
 ## Dataset description:  
 * This dataset consists of 10127 customers mentioning their age, salary, marital status, credit card limit etc. There's about 18 features.  
 * 16.07% customers have churned.
