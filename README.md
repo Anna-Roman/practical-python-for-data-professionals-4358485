@@ -1,7 +1,7 @@
 # Practical Python for Data Professionals
 
 ## Dataset description:  
-* This dataset consists of 10127 customers mentioning their age, salary, marital status, credit card limit etc. There's about 18 features.  
+* This [dataset](https://github.com/Anna-Roman/practical-python-for-data-professionals-4358485/blob/main/data/BankChurners_v2.csv) consists of 10127 customers mentioning their age, salary, marital status, credit card limit etc. There's about 18 features.  
 * 16.07% customers have churned.
 
 ## Credit card retention analysis  
