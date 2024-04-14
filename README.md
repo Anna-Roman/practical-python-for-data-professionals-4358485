@@ -14,7 +14,7 @@ Later we took a deeper look at some of our findings, like: customer churn and tr
 Python code is [here](https://github.com/Anna-Roman/practical-python-for-data-professionals-4358485/blob/main/data/cleaning_data.ipynb)  
 
 
-### Analysis:
+###  Findings:
 In this [analysis](https://github.com/Anna-Roman/practical-python-for-data-professionals-4358485/blob/main/data/cleaning_data.ipynb) we took a look at the available credin card customer data and tried to understand how to increase customer retention.   
 
 We found that there are No Churned Customers above $11K of Spend.   
