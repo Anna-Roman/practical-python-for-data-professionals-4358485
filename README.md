@@ -1,12 +1,12 @@
-# Practical Python for Data Professionals
+# Credit card retention analysis with Python  
 
-This project is based on the LinkedIn Learning course Practical Python for Data Professionals. The full course is available from [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-data-professionals/introduction?dApp=59033956).  
+This project is based on the LinkedIn Learning course **Practical Python for Data Professionals**. The full course is available from [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-data-professionals/introduction?dApp=59033956).  
 
 ## Dataset description:  
 * This [dataset](https://github.com/Anna-Roman/practical-python-for-data-professionals-4358485/blob/main/data/BankChurners_v2.csv) consists of 10127 customers mentioning their age, salary, marital status, credit card limit etc. There's about 18 features.  
 * 16.07% customers have churned.
 
-## Credit card retention analysis  
+## Analysis: 
 In this project we cleaned the data by checking for duplicates, removing unnecessary columns from our dataset and dealing with missing values.  
 Then we explored our data and looked at some statistics like mean, median, min and max.   
 Later we took a deeper look at some of our findings, like: customer churn and transaction amount.     
